@@ -1,3 +1,4 @@
+using NthFibonacci.App;
 using Xunit;
 
 namespace NthFibonacci.Test
